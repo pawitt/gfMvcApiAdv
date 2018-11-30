@@ -1,0 +1,14 @@
+C:\Repos\App01\App04.Services\bin\Debug\netcoreapp2.1\App04.Services.deps.json
+C:\Repos\App01\App04.Services\bin\Debug\netcoreapp2.1\App04.Services.dll
+C:\Repos\App01\App04.Services\bin\Debug\netcoreapp2.1\App04.Models.dll
+C:\Repos\App01\App04.Services\bin\Debug\netcoreapp2.1\App04.Models.pdb
+C:\Repos\App01\App04.Services\obj\Debug\netcoreapp2.1\App04.Services.csprojAssemblyReference.cache
+C:\Repos\App01\App04.Services\obj\Debug\netcoreapp2.1\App04.Services.csproj.CoreCompileInputs.cache
+C:\Repos\App01\App04.Services\obj\Debug\netcoreapp2.1\App04.Services.AssemblyInfoInputs.cache
+C:\Repos\App01\App04.Services\obj\Debug\netcoreapp2.1\App04.Services.AssemblyInfo.cs
+C:\Repos\App01\App04.Services\obj\Debug\netcoreapp2.1\App04.Services.csproj.CopyComplete
+C:\Repos\App01\App04.Services\bin\Debug\netcoreapp2.1\App04.Services.pdb
+C:\Repos\App01\App04.Services\obj\Debug\netcoreapp2.1\App04.Services.dll
+C:\Repos\App01\App04.Services\obj\Debug\netcoreapp2.1\App04.Services.pdb
+C:\Repos\App01\App04.Services\bin\Debug\netcoreapp2.1\App04.Services.runtimeconfig.json
+C:\Repos\App01\App04.Services\bin\Debug\netcoreapp2.1\App04.Services.runtimeconfig.dev.json

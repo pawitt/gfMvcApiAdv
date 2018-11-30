@@ -1,0 +1,17 @@
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\App04.Tests.deps.json
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\App04.Tests.runtimeconfig.json
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\App04.Tests.runtimeconfig.dev.json
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\App04.Tests.dll
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\App04.Tests.pdb
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\App04.Models.dll
+C:\Repos\App01\App04.Tests\bin\Debug\netcoreapp2.1\App04.Models.pdb
+C:\Repos\App01\App04.Tests\obj\Debug\netcoreapp2.1\App04.Tests.csprojAssemblyReference.cache
+C:\Repos\App01\App04.Tests\obj\Debug\netcoreapp2.1\App04.Tests.csproj.CoreCompileInputs.cache
+C:\Repos\App01\App04.Tests\obj\Debug\netcoreapp2.1\App04.Tests.AssemblyInfoInputs.cache
+C:\Repos\App01\App04.Tests\obj\Debug\netcoreapp2.1\App04.Tests.AssemblyInfo.cs
+C:\Repos\App01\App04.Tests\obj\Debug\netcoreapp2.1\App04.Tests.csproj.CopyComplete
+C:\Repos\App01\App04.Tests\obj\Debug\netcoreapp2.1\App04.Tests.dll
+C:\Repos\App01\App04.Tests\obj\Debug\netcoreapp2.1\App04.Tests.pdb

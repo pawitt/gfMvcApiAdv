@@ -1,0 +1,14 @@
+C:\Repos\App01\App03\bin\Debug\netcoreapp2.1\App03.deps.json
+C:\Repos\App01\App03\bin\Debug\netcoreapp2.1\App03.runtimeconfig.json
+C:\Repos\App01\App03\bin\Debug\netcoreapp2.1\App03.runtimeconfig.dev.json
+C:\Repos\App01\App03\bin\Debug\netcoreapp2.1\App03.dll
+C:\Repos\App01\App03\bin\Debug\netcoreapp2.1\App03.pdb
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.csprojAssemblyReference.cache
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.csproj.CoreCompileInputs.cache
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.RazorAssemblyInfo.cache
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.RazorAssemblyInfo.cs
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.AssemblyInfoInputs.cache
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.AssemblyInfo.cs
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.RazorTargetAssemblyInfo.cache
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.dll
+C:\Repos\App01\App03\obj\Debug\netcoreapp2.1\App03.pdb

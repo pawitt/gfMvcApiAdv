@@ -1,0 +1,8 @@
+C:\Repos\App01\App04.Models\bin\Debug\netcoreapp2.1\App04.Models.deps.json
+C:\Repos\App01\App04.Models\bin\Debug\netcoreapp2.1\App04.Models.dll
+C:\Repos\App01\App04.Models\bin\Debug\netcoreapp2.1\App04.Models.pdb
+C:\Repos\App01\App04.Models\obj\Debug\netcoreapp2.1\App04.Models.csproj.CoreCompileInputs.cache
+C:\Repos\App01\App04.Models\obj\Debug\netcoreapp2.1\App04.Models.AssemblyInfoInputs.cache
+C:\Repos\App01\App04.Models\obj\Debug\netcoreapp2.1\App04.Models.AssemblyInfo.cs
+C:\Repos\App01\App04.Models\obj\Debug\netcoreapp2.1\App04.Models.dll
+C:\Repos\App01\App04.Models\obj\Debug\netcoreapp2.1\App04.Models.pdb
